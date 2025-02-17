@@ -2,7 +2,7 @@
 
  Estudo Engenharia da Computação, tenho certificação AWS Certified Cloud Pratitioner, sou de Pernambuco e tenho 23 anos. Estou em transição de carreira da área de Redes de Computadores para o desenvolvimento.
 
-No momento, estou estudando **Java** e **.NET**.
+No momento, estou estudando **Java**,**Spring** e **Angular**.
 
 
 [![](https://img.shields.io/badge/JoseLSousa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselsousa/)
