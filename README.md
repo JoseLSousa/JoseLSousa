@@ -1,6 +1,6 @@
 ## Oi, eu sou Lucas 👋
 
- Estudo Engenharia da Computação, tenho certificação AWS Certified Cloud Pratitioner, sou de Pernambuco e tenho 23 anos. Estou em transição de carreira da área de Redes de Computadores para o desenvolvimento.
+ Estudo Engenharia da Computação, tenho certificação AWS Certified Cloud Pratitioner, sou de Pernambuco e tenho 24 anos. Estou em transição de carreira da área de Redes de Computadores para o desenvolvimento.
 
 No momento, estou estudando **Java**, **Spring** e **Angular**.
 
